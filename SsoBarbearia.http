@@ -1,0 +1,6 @@
+@SsoBarbearia_HostAddress = http://localhost:5075
+
+GET {{SsoBarbearia_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
