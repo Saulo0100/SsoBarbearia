@@ -2,7 +2,7 @@
 
 services:
   api:
-    container_name: barbearia-api
+    container_name: barbearia-sso
     build: .
     ports:
       - "5001:80"
